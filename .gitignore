@@ -7,3 +7,5 @@
 .pem
 .idea/
 *.iml
+tmp/
+static/
